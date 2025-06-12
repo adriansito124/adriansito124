@@ -7,5 +7,4 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=c" width="40px" alt="python logo"  />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=light" width="40px" alt="c logo"  />
   </div>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{adriansito124}/count.svg" /></p> 
 </div>
